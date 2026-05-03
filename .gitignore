@@ -1,5 +1,10 @@
-.github/docker/
-.github/workflows/build-docker.yml
-.github/workflows/build-dockerfile.yml
-zmk/
-*.swp
+*.xcf
+/releases
+
+# KiCAD stuff
+*fp-info-cache
+*.kicad_prl
+hardware/daedalus-backups
+
+# Pandoc files
+*.log
