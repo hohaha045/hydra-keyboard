@@ -14,7 +14,6 @@
 | D19 | ✅ HIGH | ROW2 | Matrix row 2 |
 | D18 | ✅ HIGH | ROW3 | Matrix row 3 |
 | D15 | ✅ HIGH | ROW4 | Matrix row 4 (THUMB) |
-
 | D14 | ✅ HIGH | COL1 | Matrix column 1 |
 | D16 | ⚠️ LOW | COL2 | Matrix column 2 |
 | D10 | ⚠️ LOW | COL3 | Matrix column 3 |
