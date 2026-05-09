@@ -136,10 +136,9 @@ ROW1 (D20)  → S1   S2   S3   S4   S5
 ROW2 (D19)  → S6   S7   S8   S9  S10
 ROW3 (D18)  → S11  S12  S13  S14  S15
 ROW4 (D15)  → S16  S17  S18  S19  S20  (THUMB)
-              ↑    ↑    ↑    ↑    ↑
-             D14  D16  D10  TBD  TBD
-             COL1 COL2 COL3 COL4 COL5
-```
+              ↑          ↑         ↑  
+             D14        D16       D10  
+             COL1       COL2      COL3 
 
 **Total:** 4 rows × 5 cols = 20 keys per side × 2 = 40 keys
 **Anti-ghosting:** 1N4148 diodes in col2row configuration
