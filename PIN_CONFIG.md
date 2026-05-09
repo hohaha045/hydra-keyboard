@@ -8,11 +8,8 @@
 |---------|-----------|--------|-------------|
 | D1 | ✅ HIGH | ENC_B | Encoder pin B |
 | D0 | ✅ HIGH | ENC_A | Encoder pin A |
-
 | D9 | ⚠️ LOW | ENC_SW | Encoder switch (push) |
-
 | D21 | ✅ HIGH | MOS | LED MOSFET gate |
-
 | D20 | ✅ HIGH | ROW1 | Matrix row 1 (top) |
 | D19 | ✅ HIGH | ROW2 | Matrix row 2 |
 | D18 | ✅ HIGH | ROW3 | Matrix row 3 |
